@@ -1,0 +1,25 @@
+#app {
+  border-style: dotted;
+  border-color: white;
+  border-width: 0.5px;
+  padding: 25px;
+  margin-top: 25px;
+}
+
+body {
+  color: white;
+  background-color: black;
+  font-size: 200%;
+}
+
+i {
+  color : violet;
+  font-size: 300%;
+  padding: 5px;
+}
+
+#location {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 200%;
+}
